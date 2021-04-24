@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ConsoleClassDz\ConsoleClassDz\bin\Debug\ConsoleClassDz.exe.config
+C:\Users\user\source\repos\ConsoleClassDz\ConsoleClassDz\bin\Debug\ConsoleClassDz.exe
+C:\Users\user\source\repos\ConsoleClassDz\ConsoleClassDz\bin\Debug\ConsoleClassDz.pdb
+C:\Users\user\source\repos\ConsoleClassDz\ConsoleClassDz\obj\Debug\ConsoleClassDz.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ConsoleClassDz\ConsoleClassDz\obj\Debug\ConsoleClassDz.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleClassDz\ConsoleClassDz\obj\Debug\ConsoleClassDz.exe
+C:\Users\user\source\repos\ConsoleClassDz\ConsoleClassDz\obj\Debug\ConsoleClassDz.pdb
